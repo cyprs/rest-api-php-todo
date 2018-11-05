@@ -39,10 +39,10 @@ CREATE TABLE `todo` (
 --
 
 INSERT INTO `todo` (`id`, `status`, `name`) VALUES
-(2, 0, 'Ömer Halisdemir \'i Ziyaret Et.'),
-(4, 1, 'Engin Tilbeç\'i Ziyaret Et'),
-(5, 0, '30 Hedef Yap'),
-(6, 1, 'Malatya\'ya git');
+(2, 0, 'Drink milk.'),
+(4, 1, 'Play Football'),
+(5, 0, 'Do Sport'),
+(6, 1, 'Help the Poor');
 
 --
 -- Dökümü yapılmış tablolar için indeksler
